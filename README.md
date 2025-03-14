@@ -115,9 +115,6 @@ customer-churn-prediction/
 - Deploy the Streamlit app on a cloud platform for public access.
 - Experiment with deep learning models for better accuracy.
 
-## Author
-Project inspired by [YouTube Tutorial](https://www.youtube.com/watch/XRnQUQmS2_s). Feel free to reach out for any questions!
-
 ## License
 This project is open-source and available under the MIT License.
 
