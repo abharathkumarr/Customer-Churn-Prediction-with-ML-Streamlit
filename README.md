@@ -1,7 +1,5 @@
 # Customer-Churn-Prediction-with-ML-Streamlit
 
-# Customer Churn Prediction
-
 ## Overview
 This project focuses on predicting customer churn using machine learning. The process includes data analysis, feature engineering, model training, and the development of a Streamlit web app to interact with the trained model.
 
